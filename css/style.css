@@ -68,6 +68,9 @@ a:hover {
 	text-transform: capitalize;
 	font-size: 16px;
 }
+.tem-link a:hover {
+	text-decoration: underline;
+}
 
 .tem-link.one {
 	background-color: #02385c;
